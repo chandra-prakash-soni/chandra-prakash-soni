@@ -2,7 +2,7 @@
 
 With 9+ years of hands-on experience in full-stack development, I specialize in building powerful, scalable applications using technologies like **PHP**, **ReactJS**, and **NodeJS**. From crafting dynamic frontends to architecting robust backends, I’m passionate about bringing innovative ideas to life and continuously exploring new tech to stay ahead in the field.
 
-Currently, I’m a **Tech Lead** guiding teams and driving project success at **Ibirds Software Services Pvt. Ltd.**, but I’m always open to new challenges and collaborations in the tech space.
+Currently, I’m a **Tech Lead** at **Ibirds Software Services Pvt. Ltd.**, but I’m always open to new challenges and collaborations in the tech space.
 
 ---
 
